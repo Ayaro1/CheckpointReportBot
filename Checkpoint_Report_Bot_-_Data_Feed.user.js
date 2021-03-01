@@ -3,7 +3,7 @@
 // @name           IITC plugin: Checkpoint Report Bot - Data Feed
 // @category       Checkpoint Report Bot
 // @author         Ayaro
-// @version        0.1.20210301.1958
+// @version        0.1.20210301.1959
 // @namespace      https://github.com/Ayaro1/CheckpointReportBot
 // @updateURL      https://github.com/Ayaro1/CheckpointReportBot/raw/master/Checkpoint_Report_Bot_-_Data_Feed.user.js
 // @downloadURL    https://github.com/Ayaro1/CheckpointReportBot/raw/master/Checkpoint_Report_Bot_-_Data_Feed.user.js
